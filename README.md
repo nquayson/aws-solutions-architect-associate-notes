@@ -229,6 +229,7 @@ User defined metadatas must start with `x-amz-meta`.
 When you enable logging on a bucket, the console both enables logging on the source bucket and adds a grant in the target bucket's access control list (ACL) granting write permission to the Log Delivery Group.
 
 __S3 bucket endpoints formats__ —
+ (They change once a while, but these are general formats, as a guide)
 1. http://bucket.s3.amazonaws.com
 2. http://bucket.s3.aws-region.amazonaws.com
 3. http://bucket.s3-aws-region.amazonaws.com
