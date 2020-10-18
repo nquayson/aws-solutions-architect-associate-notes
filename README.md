@@ -1,13 +1,13 @@
 # Notes for AWS Certified Solutions Architect Associate And Practice Codes
 
 # <Edit 2020>
-I recently got the AWS solutions architect associate certificate in June 2020, and wanted to share my notes with everyone. The solutions architect exam has changed considerably in 2020. These notes contain details that appear on the EXAM that are usually not covered on beginner course works. This is the path I recommend:
+The solutions architect exam has changed considerably in 2020. These notes contain details that appear on the EXAM that are usually not covered on beginner course work. In order not to feel overwhelmed, take a course that explains the basics first. This is the path I recommend:
 
 - Go through the [Stephane Maarek course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/). 
-- Attempt the [practice tests by Jon Bonso at TutorialsDojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/). Again, after each test, note down the concepts you had difficulties with. 
+- Attempt the [practice tests by Jon Bonso at TutorialsDojo](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/). After each test, note down the concepts you had difficulties with. Go over each of the answers and understand WHY the wrong answers are wrong. (this is important)
 - Attempt the Tutorials Dojo tests a second time after revising and going through the notes below. You should score >70.
 
-So you should go through the notes only after you have done a course that explains the basics. If you're totally new to AWS, many people have started their journeys with ACloudGuru, but the course in itself is not sufficient to pass the exam. Read my [blog post](https://dev.to/nquayson/the-cloud-resume-challenge-was-worth-its-weight-in-gold-4gjb) about a challenge I took up just after completing my SAA. 
+If you're totally new to AWS, many people have started their journeys with ACloudGuru, but the course in itself is not sufficient to pass the exam. Read my [blog post](https://dev.to/nquayson/the-cloud-resume-challenge-was-worth-its-weight-in-gold-4gjb) about a challenge I took up just after completing my SAA. 
 Also check out Sumit's [blog](https://sumit-ghosh.com/articles/aws-solutions-architect-associate-preparation/). 
 
 
